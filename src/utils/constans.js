@@ -5,7 +5,7 @@ export const PERSONAL_INFO = {
     email: "youhaj15@gmail.com",
     phone: "+970595691714",
     location: "Tulkarm, Palestine",
-    resume: 'public/CV-yousefhaj-0.pdf',
+    resume: '/CV-yousefhaj-0.pdf',
 
     bio: [
         "I'm a passionate React developer with over 2 years of experience building scalable, high-performing web applications.I specialize in creating intuitive user interfaces that combine beautiful design with exceptional functionality.",
